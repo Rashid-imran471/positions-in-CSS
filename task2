@@ -1,0 +1,17 @@
+Explain the difference between Absolute and Relative positioning.
+
+Ans:Absolute and relative positioning are two common concepts in web development and graphic design that describe how elements on a webpage or in a layout are positioned in relation to their parent or other elements. Let's break down the differences between them:
+ 
+Absolute Positioning:
+
+Absolute positioning allows you to specify the exact position of an element relative to a positioned ancestor or the entire web page.
+When an element is absolutely positioned, it is taken out of the normal document flow, which means it won't affect the positioning of other elements.
+You can use properties like top, right, bottom, and left to specify the distance between the element and its nearest positioned ancestor or the page itself.
+Absolute positioning is often used for creating overlays, pop-up windows, or placing elements precisely in a specific location on a page.
+
+Relative Positioning:
+
+Relative positioning allows you to position an element relative to its normal position in the document flow or relative to its nearest positioned ancestor.
+When an element is relatively positioned, it still occupies space in the document flow, and other elements are positioned as if it were in its original position.
+You can use properties like top, right, bottom, and left to adjust the element's position relative to where it would normally be placed.
+Relative positioning is often used to make minor adjustments to the position of elements without disrupting the layout significantly.
